@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>comments</key>
+			<string>A pleasent side-step from the hit-and-miss tapestry of Smithdown Road</string>
+			<key>latitude</key>
+			<real>53.392657</real>
+			<key>longitude</key>
+			<real>-2.933429</real>
+			<key>name</key>
+			<string>Oomoo</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Suburban Treat</string>
+			<key>latitude</key>
+			<real>53.380295</real>
+			<key>longitude</key>
+			<real>-2.91373</real>
+			<key>name</key>
+			<string>Espresso Plus</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Hidden Gem in Lark Lane</string>
+			<key>latitude</key>
+			<real>53.3816</real>
+			<key>longitude</key>
+			<real>-2.945619</real>
+			<key>name</key>
+			<string>The Moon and Pea Deli</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Sandwich Heaven</string>
+			<key>latitude</key>
+			<real>53.405521</real>
+			<key>longitude</key>
+			<real>-2.993504</real>
+			<key>name</key>
+			<string>Bagels</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Fantastic Tea, but the coffee is also good</string>
+			<key>latitude</key>
+			<real>53.403198</real>
+			<key>longitude</key>
+			<real>-2.978942</real>
+			<key>name</key>
+			<string>Leaf</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>A hidden Gem</string>
+			<key>latitude</key>
+			<real>53.409627</real>
+			<key>longitude</key>
+			<real>-2.97046</real>
+			<key>name</key>
+			<string>Cafe Time</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>A quaint, French Style Cafe</string>
+			<key>latitude</key>
+			<real>53.403968</real>
+			<key>longitude</key>
+			<real>-2.972286</real>
+			<key>name</key>
+			<string>07 Cafe Bar</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Interesting Atmosphere</string>
+			<key>latitude</key>
+			<real>53.401892</real>
+			<key>longitude</key>
+			<real>-2.97628</real>
+			<key>name</key>
+			<string>Tabac</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Not for Kids</string>
+			<key>latitude</key>
+			<real>53.405635</real>
+			<key>longitude</key>
+			<real>-2.966063</real>
+			<key>name</key>
+			<string>Liverpool Guild of Students</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Under the Foundation Building</string>
+			<key>latitude</key>
+			<real>53.406</real>
+			<key>longitude</key>
+			<real>-2.967</real>
+			<key>name</key>
+			<string>Costa Coffee</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Opposite the Hospital</string>
+			<key>latitude</key>
+			<real>53.4107</real>
+			<key>longitude</key>
+			<real>-2.965</real>
+			<key>name</key>
+			<string>Starbucks</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Above Blackwells</string>
+			<key>latitude</key>
+			<real>53.4056</real>
+			<key>longitude</key>
+			<real>-2.9653</real>
+			<key>name</key>
+			<string>Cafe on the Square</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Not cheap</string>
+			<key>latitude</key>
+			<real>53.4061</real>
+			<key>longitude</key>
+			<real>-2.966</real>
+			<key>name</key>
+			<string>Victoria Museum</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>By the Cathedral</string>
+			<key>latitude</key>
+			<real>53.4037</real>
+			<key>longitude</key>
+			<real>-2.9695</real>
+			<key>name</key>
+			<string>Piazza Cafe Bar</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Good Reviews</string>
+			<key>latitude</key>
+			<real>53.4087</real>
+			<key>longitude</key>
+			<real>-2.9707</real>
+			<key>name</key>
+			<string>Taste Buds</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>comments</key>
+			<string>The World&apos;s Finest Loose Leaf Teas</string>
+			<key>latitude</key>
+			<real>37.336</real>
+			<key>longitude</key>
+			<real>-122.0159</real>
+			<key>name</key>
+			<string>Fantasia Tea Cafe</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>11111 North Wolfe Road</string>
+			<key>latitude</key>
+			<real>37.3372</real>
+			<key>longitude</key>
+			<real>-122.0146</real>
+			<key>name</key>
+			<string>Starbucks</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>20520A Stevens Creek Boulevard</string>
+			<key>latitude</key>
+			<real>37.322</real>
+			<key>longitude</key>
+			<real>-122.0328</real>
+			<key>name</key>
+			<string>Starbucks</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Bakery Cafe</string>
+			<key>latitude</key>
+			<real>37.3208</real>
+			<key>longitude</key>
+			<real>-122.0302</real>
+			<key>name</key>
+			<string>Le Boulanger</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>10800 Torre Ave</string>
+			<key>latitude</key>
+			<real>37.3181</real>
+			<key>longitude</key>
+			<real>-122.029</real>
+			<key>name</key>
+			<string>Coffee Society @ the Cupertino Library</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Free Wifi, Pastry</string>
+			<key>latitude</key>
+			<real>37.323</real>
+			<key>longitude</key>
+			<real>-122.0379</real>
+			<key>name</key>
+			<string>Panera</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Unique Blends of Coffee - with full bodied taste</string>
+			<key>latitude</key>
+			<real>37.3231</real>
+			<key>longitude</key>
+			<real>-122.0383</real>
+			<key>name</key>
+			<string>Peet&apos;s Coffee and Tea</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>1685-87 Hollenbeck Road</string>
+			<key>latitude</key>
+			<real>37.3379</real>
+			<key>longitude</key>
+			<real>-122.0416</real>
+			<key>name</key>
+			<string>Starbucks</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Best Coffee Shop in Santa Clara</string>
+			<key>latitude</key>
+			<real>37.3225</real>
+			<key>longitude</key>
+			<real>-122.018</real>
+			<key>name</key>
+			<string>It&apos;s A Grind Coffee House</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>19925 Stevens Creek Boulevard</string>
+			<key>latitude</key>
+			<real>37.3236</real>
+			<key>longitude</key>
+			<real>-122.0216</real>
+			<key>name</key>
+			<string>Captain Cook Coffee Co Ltd</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>
+                Killer Lattes, great by the cup brewing, decent internet
+            </string>
+			<key>latitude</key>
+			<real>37.31833</real>
+			<key>longitude</key>
+			<real>-122.03169</real>
+			<key>name</key>
+			<string>Bitter+Sweet</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Better breads than other places</string>
+			<key>latitude</key>
+			<real>37.3178</real>
+			<key>longitude</key>
+			<real>-122.032</real>
+			<key>name</key>
+			<string>Kee Wah Bakery</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>The best place to get sandwiches in the area</string>
+			<key>latitude</key>
+			<real>37.3195</real>
+			<key>longitude</key>
+			<real>-122.0327</real>
+			<key>name</key>
+			<string>Pebbles Deli Cafe</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>20916-F Homestead Road</string>
+			<key>latitude</key>
+			<real>37.3371</real>
+			<key>longitude</key>
+			<real>-122.0403</real>
+			<key>name</key>
+			<string>Quickly</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Food and service is awesome</string>
+			<key>latitude</key>
+			<real>37.3514</real>
+			<key>longitude</key>
+			<real>-122.0327</real>
+			<key>name</key>
+			<string>Dairy Bell</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Slow service and highly overpriced</string>
+			<key>latitude</key>
+			<real>37.3513</real>
+			<key>longitude</key>
+			<real>-122.0313</real>
+			<key>name</key>
+			<string>K&apos;s Crepes and Cafe</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>
+                This used to be a great place for Hong Kong style western food
+            </string>
+			<key>latitude</key>
+			<real>37.3358</real>
+			<key>longitude</key>
+			<real>-122.0152</real>
+			<key>name</key>
+			<string>Wolfe Cafe</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>10887 North Wolfe Road</string>
+			<key>latitude</key>
+			<real>37.3358</real>
+			<key>longitude</key>
+			<real>-122.0157</real>
+			<key>name</key>
+			<string>Quickly</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>20745 Stevens Creek Boulevard</string>
+			<key>latitude</key>
+			<real>37.324</real>
+			<key>longitude</key>
+			<real>-122.0363</real>
+			<key>name</key>
+			<string>Starbucks</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>7290 Bollinger Road</string>
+			<key>latitude</key>
+			<real>37.3119</real>
+			<key>longitude</key>
+			<real>-122.0319</real>
+			<key>name</key>
+			<string>Starbucks</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>223990 Homestead Road</string>
+			<key>latitude</key>
+			<real>37.3373</real>
+			<key>longitude</key>
+			<real>-122.0617</real>
+			<key>name</key>
+			<string>Starbucks</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Mocha and Lattes</string>
+			<key>latitude</key>
+			<real>37.3233</real>
+			<key>longitude</key>
+			<real>-122.0474</real>
+			<key>name</key>
+			<string>Coffee Society</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Fresh, simple flavors in a delightful bistro</string>
+			<key>latitude</key>
+			<real>37.3228</real>
+			<key>longitude</key>
+			<real>-122.0461</real>
+			<key>name</key>
+			<string>Mediterranean Cafe</string>
+		</dict>
+		<dict>
+			<key>comments</key>
+			<string>Find orange trees here</string>
+			<key>latitude</key>
+			<real>37.3235</real>
+			<key>longitude</key>
+			<real>-122.0484</real>
+			<key>name</key>
+			<string>Orange Tree</string>
+		</dict>
+	</array>
+</array>
+</plist>
